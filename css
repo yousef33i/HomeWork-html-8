@@ -1,0 +1,30 @@
+body{background-color:powderblue;}
+
+.p1{
+    text-align:right; 
+    color:brown; 
+    font-size:30px;
+}
+
+.p2{
+    color:green;
+     text-align:center; 
+     font-size:40px;
+    } 
+
+.p3{text-align:left; 
+    color:red; 
+    font-size:30px}
+
+caption{
+    font-size:30px;
+}
+
+
+.marq{ 
+direction: ltr; 
+background-color: rosybrown; 
+behavior: inherit;
+scrollbar-darkshadow-color: lightblue; 
+scrollbar-highlight-color: lightseagreen;
+ }
